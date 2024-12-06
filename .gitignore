@@ -32,5 +32,9 @@ coverage
 # TS build files
 tsconfig.tsbuildinfo
 tsconfig.node.tsbuildinfo
+
+# Vite config
 vite.config.d.ts
+vite.config.js
+*.tsbuildinfo
 
